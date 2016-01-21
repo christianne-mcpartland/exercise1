@@ -18,16 +18,29 @@ html {
 
 }
 
+.align {
+    text-align: center;
+}
+
 h1 {
     color: #347b75;
+    font-family: sans-serif;
+    font-size: 3em;
+    text-align: center;
 }
 
 .icon-cat-dingbats-08 {
     font-size: 7em;
     padding-top: 3em;
+    
 }
 
 .icon-cat-dingbats-01 {
+    font-size: 7em;
+    padding-top: 3em;
+}
+
+.icon-cat-dingbats-07 {
     font-size: 7em;
     padding-top: 3em;
 }
